@@ -1,0 +1,16 @@
+Medium link: 
+https://medium.com/@hellolasantha/qna-rag-application-using-large-lanaguage-model-llm-langchain-ollama-llama2-vectordb-fbc87d3139f6
+
+Instructor embedding: 
+https://instructor-embedding.github.io/
+
+langchain documentation:
+https://python.langchain.com/v0.1/docs/get_started/introduction
+https://python.langchain.com/v0.2/docs/integrations/chat/
+
+FAISS vectorstore:
+https://ai.meta.com/tools/faiss/#:~:text=FAISS%20(Facebook%20AI%20Similarity%20Search,are%20similar%20to%20each%20other.
+
+what is RAG and Vector databases:
+https://aws.amazon.com/what-is/retrieval-augmented-generation/#:~:text=Retrieval%2DAugmented%20Generation%20(RAG),sources%20before%20generating%20a%20response.
+
